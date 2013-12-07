@@ -6,7 +6,7 @@
 # catalog-version 0.1
 Name:		texlive-cutwin
 Version:	0.1
-Release:	6
+Release:	7
 Summary:	Cut a window in a paragraph, typeset material in it
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/cutwin
