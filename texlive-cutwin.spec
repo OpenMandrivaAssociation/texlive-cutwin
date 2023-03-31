@@ -1,6 +1,6 @@
 Name:		texlive-cutwin
 Version:	60901
-Release:	1
+Release:	2
 Summary:	Cut a window in a paragraph, typeset material in it
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/cutwin
