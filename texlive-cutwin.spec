@@ -3,7 +3,7 @@ Version:	60901
 Release:	2
 Summary:	Cut a window in a paragraph, typeset material in it
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/cutwin
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/cutwin
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/cutwin.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/cutwin.doc.r%{version}.tar.xz
